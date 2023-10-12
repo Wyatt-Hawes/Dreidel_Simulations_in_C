@@ -1,3 +1,5 @@
+# View Writeup.pdf to view created graphs easily
+
 How to run and use play-dreidel.c
 ================================
 
