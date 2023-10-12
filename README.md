@@ -1,4 +1,6 @@
 # View Writeup.pdf to view created graphs easily
+- All code besides the .h headers were made by myself.
+
 
 How to run and use play-dreidel.c
 ================================
